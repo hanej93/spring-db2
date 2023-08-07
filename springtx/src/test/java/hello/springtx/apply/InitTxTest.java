@@ -50,7 +50,4 @@ public class InitTxTest {
 			log.info("Hello init ApplicationReadyEvent tx active={}", isActive);
 		}
 	}
-
-
-
 }
